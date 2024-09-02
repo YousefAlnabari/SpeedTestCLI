@@ -19,7 +19,7 @@
 
    ```bash
    git clone https://github.com/yourusername/speedtest-colorful.git
-   cd speedtest-colorful
+   cd SpeedTestCLI
    ```
 2. **Install the required packages:**
 
@@ -31,7 +31,7 @@
 
 Run the script using Python:
 ```bash
-python main.py
+python3 main.py
 ```
 
 The script will perform a speed test and display the results with colorful output.

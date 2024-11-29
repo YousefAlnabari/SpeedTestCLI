@@ -1,7 +1,7 @@
 import speedtest
 import sys
-from termcolor import colored
 import time
+from   termcolor import colored
 
 def run_speedtest():
     st = speedtest.Speedtest()
